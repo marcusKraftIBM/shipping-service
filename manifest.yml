@@ -1,5 +1,5 @@
 applications:
-- name: shipping-service-js-27
+- name: shipping-service-js-29
   memory: 128M
   instances: 1
   env:
